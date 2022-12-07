@@ -1,0 +1,55 @@
+
+html, body {
+    min-height: 50%;
+    background:url(img/bg4.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    body, div, form, input, label, select{
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 13px;
+    color: #666;
+    line-height: 20px;}
+          
+    .banner {
+    position: relative;
+    height: 130px;
+    margin-top: 15px;
+    background-image: url("img/espina.png");  
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: top;
+
+    }
+    .item span {
+        color: red;
+    }
+    .question span {
+        margin-left: 30px;
+        }
+        
+          
+          .form-item {
+          width:100%;
+          }
+          
+          
+          h4{
+            font-size: 16px;
+            font-weight: 640;
+            margin-bottom: 10px;
+            color: #f7f7f7;
+            padding:6px;
+            font-family:'sans-serif','helvetica';
+          }
+          p{
+            Color:#552dd0;
+            padding-left:13px;
+          }
+    
